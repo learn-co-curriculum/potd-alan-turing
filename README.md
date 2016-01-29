@@ -7,4 +7,4 @@
 Your browser does not support the video tag. [Click here]("https://s3.amazonaws.com/potd-vids/potd-alan-turing.mp4") to view the video.
 </video>
 
-<a href='https://learn.co/lessons/potd-alan-turing' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/potd-alan-turing' title='Programmers of the Day: Alan Turing'>Programmers of the Day: Alan Turing</a> on Learn.co and start learning to code for free.</p>
